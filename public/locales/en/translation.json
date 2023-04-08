@@ -1,0 +1,61 @@
+{
+  "header": {
+    "link1": "About Us",
+    "link2": "Real Estate",
+    "link3": "Gum help",
+    "link4": "Health care",
+    "link5": "Review",
+    "link6": "Contacts",
+    "link7": "Employees"
+  },
+  "aboutUs": {
+    "title": "International public fund 'Credo'",
+    "subtitleBold": "The purpose of the fund",
+    "subtitle": "is to protect the rights of the disabled, the poor and orphans. The Fund is created in order to support the sustainable development of the Kyrgyz Republic, through the formation of property and funds on the basis of voluntary property and cash contributions, donations and other receipts not prohibited by law, the use of this property and funds for charitable activities.",
+    "cards": "Real Estate",
+    "card's-text": "The Girllove Global network is hosting event to educate our community",
+    "planet-link": "Join our charity foundation community"
+  },
+  "ourServices": {
+    "ourServices_title": "Kindness and Love",
+    "ourServices_title2": "Our children",
+    "ourServices_info": "Our support",
+    "education": "Education",
+    "foods": "Support with foods",
+    "volunteer-title": "Our Leaders",
+    "volunteer-title2": "We are for Charity",
+    "contribution-education": "Contribution to education",
+    "contribution-health-care": "Contribution to health care",
+    "contribution-gum-help": "Contribution to gum help",
+    "contribution-funding": "Contribution to funding",
+    "contribution-future": "Contribution to future",
+    "marquee": "Fund 'Credo'"
+  },
+  "review": {
+    "review-title": "Our clients",
+    "review-title2": "What they say about our company",
+    "name": "Cholpon",
+    "about": "Financier"
+  },
+  "real-estate": {
+    "real-estate-title": "Real Estate",
+    "fundriser": "Fundraiser for Kids",
+    "date": "December 10, 2022",
+    "fund-credo": "Fund Credo",
+    "more": "More",
+    "featured": "Featured",
+    "free-house": "Provision and gratuitous issuance of real estate"
+  },
+  "footer": {
+    "contacts": "Contacts",
+    "campaign": "Company",
+    "name": "International Public Fund,Credo",
+    "address": "Kyrgyz Republic",
+    "address2": "Chui region",
+    "address3": "Alamudun district str.Almaty 289",
+    "email": "medi.ali.shah@gmail.com",
+    "telephone": "+996707-42-51-17",
+    "telephone2": "+996770-42-51-17",
+    "gallery": "Our Gallery"
+  }
+}

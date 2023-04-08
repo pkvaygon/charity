@@ -1,0 +1,92 @@
+.estate {
+    /* display: flex; */
+    justify-content: space-between;
+    padding: 96px 0;
+}
+
+.estate_block {
+    display: flex;
+    flex-direction: column;
+    /* width: 50%; */
+}
+
+.estate_title {
+    font-size: 36px;
+    font-weight: 600;
+    bottom: 8px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 26px auto;
+}
+
+.estate_card {
+    display: flex;
+    margin-top: 20px;
+    gap: 30px;
+}
+
+.estate_card-info {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    /* background: red; */
+    justify-content: space-around;
+    text-align: center;
+    width: 30%;
+    font-size: 25px;
+    background: wheat;
+    color: #000;
+}
+
+.estate_card-btn {
+    border: none;
+    background: transparent;
+    color: orange;
+    padding: 5px;
+    cursor: pointer;
+    font-weight: 800;
+
+
+}
+
+
+.estate_preview {
+    margin-top: auto;
+    background-color: #EDF3F5;
+    padding: 40px 25px 80px;
+}
+
+.button-36 {
+    background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #673FD7 64.72%);
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    width: 70%;
+    margin: 0 auto;
+    color: #FFFFFF;
+    cursor: pointer;
+    flex-shrink: 0;
+    font-family: "Inter UI", "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    height: 4rem;
+    padding: 0 1.6rem;
+    text-align: center;
+    text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
+    transition: all .5s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-36:hover {
+    box-shadow: rgba(80, 63, 205, 0.5) 0 1px 30px;
+    transition-duration: .1s;
+}
+
+@media (min-width: 768px) {
+    .button-36 {
+        padding: 0 2.6rem;
+    }
+}

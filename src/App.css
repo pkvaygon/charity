@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/proxima-nova');
+@import url('https://fonts.cdnfonts.com/css/roboto-slab-2');
+@import url('https://fonts.cdnfonts.com/css/noto-sans');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto Slab', sans-serif;
+  scroll-behavior: smooth;
+  color: black;
+}
+
+body {
+  min-width: 1190px;
+}
+
+
+
+@import '../src/Components/Header/header.css';
+@import '../src/Components/AboutUs/aboutUs.css';
+@import '../src/Components/RealEstate/realEstate.css';
+@import '../src/Components/HealthCare/healthCare.css';
+@import '../src/Components/SocPack/socPack.css';
+@import '../src/Components/Review/review.css';
+@import '../src/Components/Footer/footer.css';
+
+.container {
+  width: 1190px;
+  margin: 0 auto;
+}

@@ -1,0 +1,177 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.marquee2 {
+    height: 50px;
+    background: rgb(35, 208, 55);
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.ourServices_title {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ourServices_title h2 {
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.ourServices_title p {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.ourServices_imgs {
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+}
+
+.ourServices_imgs img {
+    max-width: 390px;
+    max-height: 390px;
+}
+
+.ourServices_info {
+    margin-top: 40px;
+    height: 480px;
+    display: flex;
+    flex: 0 1 30%;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.522);
+}
+
+.ourServices_info img {
+    width: 100%;
+}
+
+.ourServices_info h2 {
+    margin: 10px auto;
+    padding-right: 100px;
+    font-weight: 600;
+    color: black;
+}
+
+.ourServices_info p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    overflow: auto;
+}
+
+.ourServices_info2 {
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ourServices_portret {
+    width: 50%;
+}
+
+.ourServices_portret img {
+    width: 100%;
+    height: 700px;
+}
+
+.ourServices_volunteer {
+    background: rgba(0, 0, 0, 0.010);
+    width: 45%;
+    height: 700px;
+}
+
+.ourServices_volunteer_title h3 {
+    font-size: 36px;
+}
+
+.ourServices_volunteer_title h5 {
+    color: rgb(17, 186, 17);
+    margin: 10px auto;
+    font-size: 28px;
+}
+
+.ourServices_skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 595px;
+}
+
+.ourServices_skills div {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0 10px 0;
+}
+
+.skill1 {
+    height: 10px;
+    background: gray;
+}
+
+.skill1 span {
+    width: 70%;
+    height: 100%;
+    background: orange;
+}
+
+.skill2 {
+    width: 100%;
+    height: 10px;
+    background: gray;
+}
+
+.skill2 span {
+    width: 80%;
+    height: 100%;
+    background: orange;
+}
+
+.skill3 {
+    width: 100%;
+    height: 10px;
+    background: gray;
+}
+
+.skill3 span {
+    width: 70%;
+    height: 100%;
+    background: orange;
+}
+
+.skill4 {
+    width: 100%;
+    height: 10px;
+    background: gray;
+}
+
+.skill4 span {
+    width: 85%;
+    height: 100%;
+    background: orange;
+}
+
+.skill5 {
+    width: 100%;
+    height: 10px;
+    background: gray;
+}
+
+.skill5 span {
+    width: 95%;
+    height: 100%;
+    background: orange;
+}
+
+.ourServices_volunteer h3 {
+    font-size: 25px;
+    font-weight: 400;
+}
